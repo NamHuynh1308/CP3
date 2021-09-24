@@ -2,10 +2,10 @@
 ## 9/20/21
 ### _finish project 1
 
-# 9/22/21
-## _Question:
-### What is abstract class using in the example of Wednesday class?
-## _Wednesday code
+## 9/22/21
+### _Question:
+#### What is abstract class using in the example of Wednesday class?
+### _Wednesday code
 public class Driver {
 1.	
 2.	    public static void main(String[] args) 
